@@ -23,11 +23,11 @@ Il qui presente progetto ha superato ogni batteria di test, riuscendo nell'ultim
 
 
 ## Documentazione
-La specifica sintetica del progetto è disponibile <a href=""> qui </a> <br>
-I test (NON ufficiali) sono disponibili <a href=""> qui </a>
+La specifica sintetica del progetto è disponibile <a href="https://github.com/enricogrillo/Progetto-API-2023/blob/main/Documentazione/Specifica%20PFAPI%202022-2023.pdf"> qui </a> <br>
+I test (NON ufficiali) sono disponibili <a href="https://github.com/enricogrillo/Progetto-API-2023/tree/main/TestAperti"> qui </a>
 
 ## Scelte progettuali
-La documentazione dettagliata relativa alle scelte progettuali è disponibile <a href=""> qui </a>.
+La documentazione dettagliata relativa alle scelte progettuali è disponibile <a href="https://github.com/enricogrillo/Progetto-API-2023/blob/main/Documentazione/Progettazione.docx"> qui </a>.
 
 ### Una rapida occhiata
 
