@@ -29,11 +29,13 @@ I test (NON ufficiali) sono disponibili <a href="https://github.com/enricogrillo
 ## Scelte progettuali
 La documentazione dettagliata relativa alle scelte progettuali è disponibile <a href="https://github.com/enricogrillo/Progetto-API-2023/blob/main/Documentazione/Progettazione.docx"> qui </a>.
 
-### Una rapida occhiata
+### Rappresentare il singolo nodo
 
 La struttura dati per la memorizzazione dei nodi autostradali è così definita:
 
-//
+![image](https://github.com/user-attachments/assets/049bd3ee-32fb-46c9-a04f-503bbb8a2db9)
+
+### Rappresentare l'intera autostrada
 
 Per memorizzare l'autostrada ho scelto di utilizzare un BST (Binary Search Tree), un albero binario di ricerca. Questa scelta si è rivelata vincente data la grande efficienza portata nelle fasi di ricerca e inserimento delle stazioni. È inoltre relativamente poco complesso "linearizzare" questa struttura nel momento in cui si operano gli algoritmi di ricerca dei percorsi ottimi e occorre visitare i nodi in ordine.
 
@@ -44,3 +46,5 @@ Per memorizzare l'autostrada ho scelto di utilizzare un BST (Binary Search Tree)
 | Notepad++ | IDE   |
 | gcc | Compilatore   |
 | Windows 10 | Sistema Operativo   |
+
+NB: i tempi indicati al paragrafo "Prestazioni" sono calcolati sulla base della macchina verificatrice, e non hanno nulla a che vedere con l'ambiente di sviluppo indicato in questo paragrafo.
